@@ -9,7 +9,7 @@ This paper proposes an innovative unified vision-language framework for driving 
 
 ### Setup and Run
 ```bash
-git clone https://github.com/your-username/DFD-CLIP.git
+git clone https://github.com/JingBai-bit/DFD-CLIP.git
 cd DFD-CLIP
 pip install -r requirements.txt
 ./train_RLDD.sh
