@@ -1,7 +1,7 @@
 # DFD-CLIP: A Unified Vision-Language Framework for Driving Fatigue Detection with Temporal Modeling and Adaptive Prompt Learning
 
 <p align="center">
-    <img src="./img/Overview.png" alt="svg" width="600"/>
+    <img src="./img/Overview.png" alt="svg" width="800"/>
 </p>
 
 ### Abstract
