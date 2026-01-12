@@ -111,7 +111,7 @@ def main():
         checkpoint_path = './checkpoint/' + 'YawDD-' + time_str + '-model.pth'
         best_checkpoint_path = './checkpoint/' + 'YawDD-' + time_str + '-model_best.pth'
         train_annotation_file_path = "./datasets/YawDD_Frame_Face/train_annotations.txt"
-        val_annotation_file_path = "./datasets/YawDD_Frame_Face/test_annotations.txt"
+        val_annotation_file_path = "./datasets/YawDD_Frame_Face/val_annotations.txt"
         test_annotation_file_path = "./datasets/YawDD_Frame_Face/test_annotations.txt"
     elif args.dataset == "NTHUDDD":
         print("*********** NTHUDDD Dataset ***********")
@@ -121,7 +121,7 @@ def main():
         checkpoint_path = './checkpoint/' + 'NTHUDDD-' + time_str + '-model.pth'
         best_checkpoint_path = './checkpoint/' + 'NTHUDDD-' + time_str + '-model_best.pth'
         train_annotation_file_path = "./datasets/NTHUDDD_Frame_Face/train_annotations.txt"
-        val_annotation_file_path = "./datasets/NTHUDDD_Frame_Face/test_annotations.txt"
+        val_annotation_file_path = "./datasets/NTHUDDD_Frame_Face/val_annotations.txt"
         test_annotation_file_path = "./datasets/NTHUDDD_Frame_Face/test_annotations.txt"
     elif args.dataset == "RLDD":
         print("*********** RLDD Dataset ***********")
@@ -131,7 +131,7 @@ def main():
         checkpoint_path = './checkpoint/' + 'RLDD-' + time_str + '-model.pth'
         best_checkpoint_path = './checkpoint/' + 'RLDD-' + time_str + '-model_best.pth'
         train_annotation_file_path = "./datasets/RLDD_Frame_Face/train_annotations.txt"
-        val_annotation_file_path = "./datasets/RLDD_Frame_Face/test_annotations.txt"
+        val_annotation_file_path = "./datasets/RLDD_Frame_Face/val_annotations.txt"
         test_annotation_file_path = "./datasets/RLDD_Frame_Face/test_annotations.txt"
 
 
