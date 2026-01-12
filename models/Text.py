@@ -7,14 +7,14 @@ class_names_with_context = [
     'a state of alertness.',
     'a state of droziness.'
 ]
-# class_descriptor = [
-#     'Eyes open and focused with normal blinking, mouth closed or slightly moving, with stable and upright head posture.',
-#     'Eyes drooping and closing frequently, or yawning, or unstable head nodding forward.'
-# ]
 class_descriptor = [
     'Eyes open and focused with normal blinking, mouth closed or slightly moving, with stable and upright head posture.',
-    'Eyes drooping and closing frequently, yawning, and unstable head nodding forward.'
+    'Eyes drooping and closing frequently, or yawning, or unstable head nodding forward.'
 ]
+# class_descriptor = [
+#     'Eyes open and focused with normal blinking, mouth closed or slightly moving, with stable and upright head posture.',
+#     'Eyes drooping and closing frequently, yawning, and unstable head nodding forward.'
+# ]
 
 # class_names = [
 #     'alert.',
