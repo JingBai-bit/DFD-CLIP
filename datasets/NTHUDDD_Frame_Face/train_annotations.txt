@@ -1,2 +1,0 @@
-/home/ubuntu/data/datasets/NTHUDDD/01/Yawning/0028/ 60 3
-/home/ubuntu/data/datasets/NTHUDDD/01/Nodding/0023/ 60 1
