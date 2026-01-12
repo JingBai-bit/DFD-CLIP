@@ -12,7 +12,6 @@ This paper proposes an innovative unified vision-language framework for driving 
 git clone https://github.com/JingBai-bit/DFD-CLIP.git
 cd DFD-CLIP
 pip install -r requirements.txt
-
 ./train_NTHUDD.sh
 ./train_YawDD.sh
 ./train_RLDD.sh
