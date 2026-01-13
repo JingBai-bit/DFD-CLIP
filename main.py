@@ -102,7 +102,9 @@ elif args.class_number =="multi":
         class_descriptor = class_descriptor_4
 
 def main():
-
+    os.makedirs('./log', exist_ok=True)
+    os.makedirs('./checkpoint', exist_ok=True)
+  
     if args.dataset == "YawDD":
         print("*********** YawDD Dataset ***********")
         log_txt_path = './log/' + 'YawDD-' + time_str + '-log.txt'
